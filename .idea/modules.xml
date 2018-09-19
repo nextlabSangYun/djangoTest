@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../djangoTest/.idea/djangoTest.iml" filepath="$PROJECT_DIR$/../djangoTest/.idea/djangoTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/testDjango.iml" filepath="$PROJECT_DIR$/.idea/testDjango.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testProjectPython/.idea/testProjectPython.iml" filepath="$PROJECT_DIR$/../testProjectPython/.idea/testProjectPython.iml" />
     </modules>
   </component>
 </project>
