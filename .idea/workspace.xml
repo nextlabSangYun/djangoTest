@@ -2,31 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b8c213a-594d-4947-8326-3e785b136c82" name="Default Changelist" comment="project django git commit">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/3f6257fc-54ab-4390-8662-0256fada55a4/storage_v2/_src_/database/MNGBOT.IZnRhw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/3f6257fc-54ab-4390-8662-0256fada55a4/storage_v2/_src_/database/MNGBOT.IZnRhw/schema/INFORMATION_SCHEMA.NBgcMw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/3f6257fc-54ab-4390-8662-0256fada55a4/storage_v2/_src_/database/MNGBOT.IZnRhw/schema/db_accessadmin.KqpDJg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/3f6257fc-54ab-4390-8662-0256fada55a4/storage_v2/_src_/database/MNGBOT.IZnRhw/schema/db_backupoperator.R9Ifpg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/3f6257fc-54ab-4390-8662-0256fada55a4/storage_v2/_src_/database/MNGBOT.IZnRhw/schema/db_datareader.To823g.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/3f6257fc-54ab-4390-8662-0256fada55a4/storage_v2/_src_/database/MNGBOT.IZnRhw/schema/db_datawriter._tp55w.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/3f6257fc-54ab-4390-8662-0256fada55a4/storage_v2/_src_/database/MNGBOT.IZnRhw/schema/db_ddladmin.hGWOrg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/3f6257fc-54ab-4390-8662-0256fada55a4/storage_v2/_src_/database/MNGBOT.IZnRhw/schema/db_denydatareader.2lWItw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/3f6257fc-54ab-4390-8662-0256fada55a4/storage_v2/_src_/database/MNGBOT.IZnRhw/schema/db_denydatawriter.iqHLwA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/3f6257fc-54ab-4390-8662-0256fada55a4/storage_v2/_src_/database/MNGBOT.IZnRhw/schema/db_owner.souIfA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/3f6257fc-54ab-4390-8662-0256fada55a4/storage_v2/_src_/database/MNGBOT.IZnRhw/schema/db_securityadmin.Dj5jKg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/3f6257fc-54ab-4390-8662-0256fada55a4/storage_v2/_src_/database/MNGBOT.IZnRhw/schema/dbo.sYMBAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/3f6257fc-54ab-4390-8662-0256fada55a4/storage_v2/_src_/database/MNGBOT.IZnRhw/schema/guest.2C3iBQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/3f6257fc-54ab-4390-8662-0256fada55a4/storage_v2/_src_/database/MNGBOT.IZnRhw/schema/sys.zb4BAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/3f6257fc-54ab-4390-8662-0256fada55a4/storage_v2/_src_/database/mngbot.IaU-wA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/3f6257fc-54ab-4390-8662-0256fada55a4/storage_v2/_src_/database/mngbot.IaU-wA/schema/dbo.sYMBAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/3f6257fc-54ab-4390-8662-0256fada55a4/storage_v2/_src_/database/mngbot.IaU-wA/schema/dbo.sYMBAA.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/blog/post_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/testDjango.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/testDjango.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testDjango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/testDjango/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/blog/post_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/blog/post_list.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +63,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Django Console" value="74" />
-          <entry key="html" value="118" />
+          <entry key="html" value="136" />
           <entry key="py" value="2346" />
           <entry key="sql" value="17" />
           <entry key="txt" value="84" />
@@ -94,7 +71,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="118" />
+          <entry key="HTML" value="136" />
           <entry key="PLAIN_TEXT" value="84" />
           <entry key="Python" value="2420" />
           <entry key="Scratch" value="17" />
@@ -142,7 +119,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
@@ -163,11 +140,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/blog/post_list.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
-              <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="81" />
+              <caret line="7" column="99" selection-start-line="7" selection-start-column="99" selection-end-line="7" selection-end-column="99" />
             </state>
           </provider>
         </entry>
@@ -226,13 +203,13 @@
         <option value="$PROJECT_DIR$/testDjango/settings.py" />
         <option value="$PROJECT_DIR$/blog/models.py" />
         <option value="$PROJECT_DIR$/blog/admin.py" />
-        <option value="$PROJECT_DIR$/templates/blog/post_list.html" />
         <option value="$PROJECT_DIR$/templates/blog/post_list.js" />
         <option value="$PROJECT_DIR$/blog/views.py" />
         <option value="$PROJECT_DIR$/testDjango/urls.py" />
         <option value="$PROJECT_DIR$/blog/urls.py" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/e54687f1-7e22-451e-a73d-15ef1c5eb014/console.sql" />
         <option value="$PROJECT_DIR$/../testProjectPython/test.py" />
+        <option value="$PROJECT_DIR$/templates/blog/post_list.html" />
       </list>
     </option>
   </component>
@@ -405,6 +382,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992743" visible="true" weight="0.18603411" />
       <window_info id="Structure" order="1" sideWeight="0.5007257" side_tool="true" weight="0.18603411" />
@@ -524,13 +502,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/blog/post_list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/manage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -555,6 +526,13 @@
           <folding>
             <marker date="1536308551680" expanded="true" signature="60:115" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/blog/post_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="99" selection-start-line="7" selection-start-column="99" selection-end-line="7" selection-end-column="99" />
         </state>
       </provider>
     </entry>
