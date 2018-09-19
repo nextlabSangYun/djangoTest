@@ -63,7 +63,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Django Console" value="74" />
-          <entry key="html" value="136" />
+          <entry key="html" value="149" />
           <entry key="py" value="2346" />
           <entry key="sql" value="17" />
           <entry key="txt" value="84" />
@@ -71,7 +71,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="136" />
+          <entry key="HTML" value="149" />
           <entry key="PLAIN_TEXT" value="84" />
           <entry key="Python" value="2420" />
           <entry key="Scratch" value="17" />
@@ -143,8 +143,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/blog/post_list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="99" selection-start-line="7" selection-start-column="99" selection-end-line="7" selection-end-column="99" />
+            <state relative-caret-position="152">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -382,7 +382,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992743" visible="true" weight="0.18603411" />
       <window_info id="Structure" order="1" sideWeight="0.5007257" side_tool="true" weight="0.18603411" />
@@ -531,8 +530,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/blog/post_list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="99" selection-start-line="7" selection-start-column="99" selection-end-line="7" selection-end-column="99" />
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
